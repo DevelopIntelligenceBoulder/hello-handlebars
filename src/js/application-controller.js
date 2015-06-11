@@ -13,8 +13,8 @@
     };
 
     /**
-     *  "Main" functionality for the application
-     *      Is invoked when the DOM Ready event is fired thanks to jQuery.
+     * "Main" functionality for the application
+     * Is invoked when the DOM Ready event is fired thanks to jQuery.
      */
     $(function() {
 

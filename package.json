@@ -1,6 +1,6 @@
 {
   "name": "hello-handlebars",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hello World utilizing Handlebars",
   "scripts": {
     "start": "node server.js",
