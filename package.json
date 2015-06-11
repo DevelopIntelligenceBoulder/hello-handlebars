@@ -1,0 +1,22 @@
+{
+  "name": "hello-handlebars",
+  "version": "0.0.1",
+  "description": "Hello World utilizing Handlebars",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-handlebars.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-handlebars",
+  "devDependencies": {
+    "express": "^4.12.4"
+  },
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  }
+}
