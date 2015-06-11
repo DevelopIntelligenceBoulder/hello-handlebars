@@ -12,7 +12,10 @@
         DI.App.HelloView.render(APP_ELEMENT_ID, model);
     };
 
-    //"Main" functionality for the application
+    /**
+     *  "Main" functionality for the application
+     *      Is invoked when the DOM Ready event is fired thanks to jQuery.
+     */
     $(function() {
 
         //Hello model containing place information
